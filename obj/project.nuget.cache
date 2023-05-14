@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ko25GK6vMnfOAA1TKuN6CO+3L/hgbsIG5sMRJ1cjXD8jUoBTQ+6+Iphsm2DMAWuN0I0IsDZqkgW2Z+BJIIK9QQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\hjha0\\source\\repos\\TodoApi\\TodoApi.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Swashbuckle.AspNetCore"
+    }
+  ]
+}
